@@ -880,13 +880,13 @@ parallax & home seperator
 }
 
 .mini .mini-content .info p {
-  letter-spacing: 1px;
-  margin-bottom: 40px;
-  color: #fff;
-  letter-spacing: 0.25px;
-  line-height: 26px;
   font-weight: 400;
   font-size: 15px;
+  color: #1e1e1e;
+  line-height: 28px;
+  letter-spacing: 0.25px;
+  margin-bottom: 40px;
+  position: relative;
 }
 
 .mini .mini-content .info p span {
