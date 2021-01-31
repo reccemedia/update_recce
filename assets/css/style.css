@@ -563,6 +563,10 @@ header
     margin-top: 27px !important;
     margin-left: 30px;
   }
+
+  .header-area .logo img{
+    margin-left: -20px;
+  }
   .header-area .menu-trigger {
     display: block !important;
   }
